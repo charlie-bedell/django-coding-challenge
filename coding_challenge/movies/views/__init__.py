@@ -1,3 +1,3 @@
-from .movie_list import MovieListView 
+from .movie_list import MovieListView, MovieDetailView
 
-__all__ = ["MovieListView"]
+__all__ = ["MovieListView", "MovieDetailView"]

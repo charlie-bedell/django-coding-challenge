@@ -11,4 +11,5 @@ class MovieSerializer(serializers.ModelSerializer):
             "title",
             "runtime",
             "release_date",
+            "runtime_formatted"
         )
